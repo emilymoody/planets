@@ -1,6 +1,9 @@
 Cold and dry, but everything is my favorite color. 
 <<<<<<< HEAD
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
 Dracula supports many moons.
 =======
 >>>>>>> parent of 69314bb... adds concern about moons, for Wolfman
+=======
+>>>>>>> parent of 4984c8a... dracula overrules wolfman
